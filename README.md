@@ -39,3 +39,6 @@ Le site web sera développé en utilisant les technologies suivantes :
 
 - Langage de programmation : React JS
 - Base de données : MySQL
+6)  MCD
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/041380e5-70b6-4d8a-9d79-e7d6be01bafe/Untitled.png)
